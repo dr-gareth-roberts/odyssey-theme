@@ -1,0 +1,18 @@
+repo_name: dr-gareth-roberts/odyssey-theme
+report_id: 3e5854dac90d10bc9f308744460a0e40
+repo_type: Public
+timestamp: '2023-11-10T02:58:05+00:00'
+requested_by: dr-gareth-roberts
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
